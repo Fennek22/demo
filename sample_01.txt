@@ -1,8 +1,1 @@
-test_git
-sample_github
-
-ABC
-
-1
-2
-3
+no_letters!
